@@ -1,0 +1,41 @@
+{
+  "company_name": "株式会社〇〇",
+  "establishment_date": "2023-07-21",
+  "founders": [
+    {
+      "name": "田中太郎",
+      "position": "代表取締役社長"
+    },
+    {
+      "name": "山田花子",
+      "position": "取締役"
+    }
+  ],
+  "capital": "1,000万円",
+  "address": "東京都渋谷区〇〇町1-2-3",
+  "contact": {
+    "phone": "03-1234-5678",
+    "email": "info@example.com"
+  },
+  "business_description": "情報技術に関するサービスの提供",
+  "business_activities": [
+    "ソフトウェア開発",
+    "ウェブデザイン",
+    "ITコンサルティング"
+  ],
+  "shareholders": [
+    {
+      "name": "株式会社ABC",
+      "shares": "500株"
+    },
+    {
+      "name": "山田花子",
+      "shares": "300株"
+    },
+    {
+      "name": "田中太郎",
+      "shares": "200株"
+    }
+  ],
+  "website": "https://example.com"
+}
